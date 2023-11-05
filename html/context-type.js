@@ -1,0 +1,5 @@
+export const TOP_LEVEL = 'TOP_LEVEL'
+export const TAG_NAME = 'TAG_NAME'
+export const ATTRIBUTES = 'ATTRIBUTES'
+export const ATTRIBUTE_VALUE = 'ATTRIBUTE_VALUE'
+export const ATTRIBUTE_EQUALS = 'ATTRIBUTE_EQUALS'
